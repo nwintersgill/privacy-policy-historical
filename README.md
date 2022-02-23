@@ -1,0 +1,2 @@
+# privacy-policy-historical
+This repository is a small subset of the [Princeton-Leuven Longitudinal Privacy Policy Dataset](https://github.com/citp/privacy-policy-historical). This allows for testing with the GitHub-hosted version of the dataset without running into problems associated with rate limits and the size of the dataset. See the original repository for more details. All credit to the original authors.
